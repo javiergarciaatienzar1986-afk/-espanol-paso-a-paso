@@ -1,0 +1,27 @@
+UNIDAD 0 · BIENVENIDOS — ESPAÑOL PASO A PASO
+
+CONTENIDO
+unidad-0/index.html — página interactiva original, 12 actividades.
+
+PUBLICACIÓN SIN MODIFICAR EL PILOTO
+1. Abre tu repositorio «espanol-paso-a-paso» en GitHub.
+2. Pulsa «Add file» > «Upload files».
+3. Arrastra LA CARPETA «unidad-0» desde tu Mac (si GitHub no permite arrastrar la carpeta, abre la carpeta y sube su index.html usando la opción de crear la ruta unidad-0/index.html desde el repositorio).
+4. Comprueba antes de confirmar que la ruta sea «unidad-0/index.html», NO «index.html» a secas.
+5. Pulsa «Commit changes». Espera a que GitHub Pages publique los cambios.
+6. La dirección de la nueva unidad será la de tu sitio actual, seguida de «unidad-0/».
+7. Crea un bloque nuevo en Symbaloo con ese enlace.
+
+IMPORTANTE
+No sobrescribir el «index.html» de la raíz del repositorio: es el piloto que ya funciona.
+La voz utiliza el sintetizador del navegador (speechSynthesis). No son audios grabados; conviene comprobar en los dispositivos del centro la pronunciación, el volumen y el funcionamiento. Las voces pueden variar.
+No hay registro individual del alumnado ni se guardan datos personales.
+
+CORRESPONDENCIA CON LOLA Y LEO 1 (LIBRO DEL ALUMNO, UNIDAD 0, PÁGS. IMPRESAS 8–10; PDF 10–12)
+Pág. 8: reconocer español/sí/no, escuchar palabras y letras; banderas de España y México.
+Pág. 9: localizar España/México y ciudades; introducción cultural.
+Pág. 10: abecedario y nombres.
+Esta unidad web es una PRÁCTICA DIGITAL COMPLEMENTARIA, no reproduce el libro ni sustituye sus actividades de dibujo, escritura, gesto o interacción oral.
+
+NOTA PEDAGÓGICA
+Las actividades digitales son de reconocimiento y escucha, no garantizan por sí solas producción oral. Para completar el contenido del libro, trabajar presencialmente: saludar y responder, decir el nombre propio, identificar banderas, repetir letras, formar letras con las manos y escribir el nombre. Supervisar que la actividad de banderas y países no se interprete como identificación de nacionalidad del alumno.
